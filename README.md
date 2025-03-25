@@ -25,7 +25,7 @@
 
 ## Android设备
 
-1.  **下载并安装Clash For Android**
+1.  **[下载并安装Clash For Android](https://share.feijipan.com/s/6gC5uKaD)**
 2.  **打开您刚才安装的Clash**，依次点击“Profiles”，“+ New Profile”， “URL”。然后在“Name”处填写“101proxy”，在“URL”处粘贴您刚才从我们官网获取的订阅链接并点击“OK”。然后点击右上方的勾以完成订阅配置的输入。
 3.  **选中“101proxy”** 并按左上角返回上一级。
 4.  **点击第一个按钮“Stopped Tap to start”**，开启代理。
@@ -33,12 +33,12 @@
 
 ## Windows设备
 
-1.  **[点击下载Clash For Windows并安装](https://github.com/yi0yiproxy/101proxy/raw/refs/heads/main/ClashX.dmg)**
+1.  **[点击下载Clash For Windows并安装](https://share.feijipan.com/s/tPC5RoEo)**
 2.  **运行您刚才安装好的Clash For Windows**，点击左侧“Profile”，然后粘贴您刚才复制的Clash订阅链接到上方输入框，然后点击右手边的“Download”
 3.  **点击左侧“General”**，通过“System Proxy”按钮来控制代理开关
 4.  **点击左侧“Proxies”**，进入节点控制页面，选取您需要使用的节点
 
 ## macOS设备
 
-1.  **下载客户端ClashX并安装**
+1.  **[下载客户端ClashX并安装](https://github.com/yi0yiproxy/101proxy/raw/refs/heads/main/ClashX.dmg)**
 2.  **启动 ClashX**，点击状态栏中的 ClashX 图标，依次选择「配置」、「托管配置」、「管理」，在弹出的界面点击添加；在弹出的对话框内填入刚才复制的订阅地址，并等待出现订阅成功的提示；
