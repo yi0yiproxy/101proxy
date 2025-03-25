@@ -33,7 +33,7 @@
 
 ## Windows设备
 
-1.  **下载Clash For Windows并安装**
+1.  **[点击下载Clash For Windows并安装](https://github.com/yi0yiproxy/101proxy/raw/refs/heads/main/ClashX.dmg)**
 2.  **运行您刚才安装好的Clash For Windows**，点击左侧“Profile”，然后粘贴您刚才复制的Clash订阅链接到上方输入框，然后点击右手边的“Download”
 3.  **点击左侧“General”**，通过“System Proxy”按钮来控制代理开关
 4.  **点击左侧“Proxies”**，进入节点控制页面，选取您需要使用的节点
