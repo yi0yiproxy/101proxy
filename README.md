@@ -44,6 +44,6 @@
 4.  记得保持经常更新订阅链接的习惯，以保证节点可用
 
 ## 视频教程 for 小白用户
-iPhone/iPad设备：[https://www.youtube.com/watch?v=N3NApF4Mb4s](https://www.youtube.com/watch?v=N3NApF4Mb4s)
-Android设备：[https://www.youtube.com/watch?v=ThXCbdXr3sA](https://www.youtube.com/watch?v=ThXCbdXr3sA)
-Windows/macOS设备：[https://www.youtube.com/watch?v=tqdTggtRTd4](https://www.youtube.com/watch?v=tqdTggtRTd4)
+- iPhone/iPad设备：[https://www.youtube.com/watch?v=N3NApF4Mb4s](https://www.youtube.com/watch?v=N3NApF4Mb4s)
+- Android设备：[https://www.youtube.com/watch?v=ThXCbdXr3sA](https://www.youtube.com/watch?v=ThXCbdXr3sA)
+- Windows/macOS设备：[https://www.youtube.com/watch?v=tqdTggtRTd4](https://www.youtube.com/watch?v=tqdTggtRTd4)
